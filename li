@@ -1,0 +1,9 @@
+class lighterRunner{
+	public Static void main(Srring[] values){
+		lighter.on(True);
+		lighter.off(false);
+		lighter.light(True);
+	}
+	}
+	
+	
