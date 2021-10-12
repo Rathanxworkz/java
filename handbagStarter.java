@@ -6,9 +6,9 @@ class handbagStarter{
 		new handBag("leather");
 		new handBag(85);
 		new handBag("vintage",35);
-		/*new handBag("red");
+		new handBag("red");
 		new handBag("130cm","nike");
 		new handBag("350rs","cotton");
-		new handBag("186cm","blue");*/
+		new handBag("186cm","blue");
 	}
 }

@@ -41,7 +41,7 @@ class handBag{
 		System.out.println(brand,size);
 		}
 		
-	/*handBag(String color){
+	handBag(String color){
 	    System.out.println("handBag7 invoked");
 		System.out.println(color);
 		}
@@ -59,7 +59,7 @@ class handBag{
 	handBag(String capacity,String color){
 	    System.out.println("handBag10 invoked");
 		System.out.println(capacity,color);
-		}	*/ 
+		}	
 	 
 	 
 }

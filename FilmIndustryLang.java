@@ -1,0 +1,4 @@
+enum FilmIndustryLang{
+  KANNADA,ENGLIGH,HINDI,TAMAIL,MALAYALYAM,TELEGU;
+
+}
