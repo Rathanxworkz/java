@@ -3,7 +3,7 @@ class FilmIndustryStarter{
 public static void main(String[] holidays)
 {
 
-FilmIndustry filmIndustry=new FilmIndustry("The Hindu",3.50f);
+FilmIndustry filmIndustry=new FilmIndustry("The Sandalwood",100000);
 
 String nm=filmIndustry.name;
 System.out.println(nm);

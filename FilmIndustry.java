@@ -4,7 +4,7 @@ class FilmIndustry{
   int noOfFilm;
   float price;
   String title;
-   FilmIndustry(String name,float price)
+   FilmIndustry(String name,int price)
    {
     this();
     this.price=price;
@@ -14,7 +14,7 @@ class FilmIndustry{
    {
      System.out.println("invoked no-arg Constructor of Film Industry");
      this.name="NA";
-     this.price=1.0f;
+     this.price=111.0f;
    }
   
 FilmIndustry(String name)
